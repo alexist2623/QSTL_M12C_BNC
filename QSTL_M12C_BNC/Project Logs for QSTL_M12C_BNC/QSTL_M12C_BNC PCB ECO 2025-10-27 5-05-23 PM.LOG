@@ -1,0 +1,8 @@
+Added Component: Designator=M1(M2_Hole)
+Added Component: Designator=M2(M2_Hole)
+Added Component: Designator=M3(M2_Hole)
+Added Component: Designator=M4(M2_Hole)
+Added Member To Class: ClassName=QSTL_M12C_BNC Member=Component M1 M2 Hole
+Added Member To Class: ClassName=QSTL_M12C_BNC Member=Component M2 M2 Hole
+Added Member To Class: ClassName=QSTL_M12C_BNC Member=Component M3 M2 Hole
+Added Member To Class: ClassName=QSTL_M12C_BNC Member=Component M4 M2 Hole
