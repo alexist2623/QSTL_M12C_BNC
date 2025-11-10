@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=M? NewDesignator=M1
+Change Component Designator: OldDesignator=M? NewDesignator=M2
+Added Member To Class: ClassName=QSTL_M12C_BNC_v2 Member=Component M2 M2 Hole

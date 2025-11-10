@@ -1,0 +1,304 @@
+Added Component: Designator=C1(FP-GRM21B-0_15-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.055inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000335oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=C2(FP-GRM21B-0_15-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.055inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000335oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=C3(FP-GRM21B-0_15-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.055inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000335oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=C4(FP-GRM21B-0_15-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.055inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000335oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=C5(FP-GRM21B-0_15-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.055inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000335oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=C6(FP-GRM21B-0_15-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55¡ÆC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.055inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000335oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=J1(031-6575)
+Added Component: Designator=J2(031-6575)
+Added Component: Designator=J3(031-6575)
+Added Component: Designator=J4(861-B05-213R004)
+Added Component: Designator=J5(PZ254-2-06-S)
+Added Component: Designator=J6(PZ254-2-06-S)
+Added Component: Designator=J7(PZ254-2-06-S)
+Added Component: Designator=J8(861-B05-213R004)
+Added Component: Designator=J9(PZ254-2-06-S)
+Added Component: Designator=J10(PZ254-2-06-S)
+Added Component: Designator=J11(PZ254-2-06-S)
+Added Component: Designator=R1(RESC2013X60X40LL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB222V"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2013X60X40LL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB222V"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2013X60X40LL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB222V"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2013X60X40LL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB222V"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2013X60X40LL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB222V"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC2013X60X40LL20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB222V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BC1 Pin=C1-1
+Added Pin To Net: NetName=BC1 Pin=J11-7
+Added Pin To Net: NetName=BC1 Pin=R1-1
+Added Net: Name=BC1
+Added Pin To Net: NetName=BC2 Pin=C2-1
+Added Pin To Net: NetName=BC2 Pin=J11-8
+Added Pin To Net: NetName=BC2 Pin=R2-1
+Added Net: Name=BC2
+Added Pin To Net: NetName=BC3 Pin=C3-1
+Added Pin To Net: NetName=BC3 Pin=J11-9
+Added Pin To Net: NetName=BC3 Pin=R3-1
+Added Net: Name=BC3
+Added Pin To Net: NetName=BC4 Pin=C4-1
+Added Pin To Net: NetName=BC4 Pin=J11-10
+Added Pin To Net: NetName=BC4 Pin=R4-1
+Added Net: Name=BC4
+Added Pin To Net: NetName=BC5 Pin=C5-1
+Added Pin To Net: NetName=BC5 Pin=J11-11
+Added Pin To Net: NetName=BC5 Pin=R5-1
+Added Net: Name=BC5
+Added Pin To Net: NetName=BC6 Pin=C6-1
+Added Pin To Net: NetName=BC6 Pin=J11-12
+Added Pin To Net: NetName=BC6 Pin=R6-1
+Added Net: Name=BC6
+Added Pin To Net: NetName=Earth Pin=C1-2
+Added Pin To Net: NetName=Earth Pin=C2-2
+Added Pin To Net: NetName=Earth Pin=C3-2
+Added Pin To Net: NetName=Earth Pin=C4-2
+Added Pin To Net: NetName=Earth Pin=C5-2
+Added Pin To Net: NetName=Earth Pin=C6-2
+Added Pin To Net: NetName=Earth Pin=J4-SH
+Added Pin To Net: NetName=Earth Pin=J7-7
+Added Pin To Net: NetName=Earth Pin=J7-8
+Added Pin To Net: NetName=Earth Pin=J7-9
+Added Pin To Net: NetName=Earth Pin=J7-10
+Added Pin To Net: NetName=Earth Pin=J7-11
+Added Pin To Net: NetName=Earth Pin=J7-12
+Added Pin To Net: NetName=Earth Pin=J8-SH
+Added Pin To Net: NetName=Earth Pin=R1-2
+Added Pin To Net: NetName=Earth Pin=R2-2
+Added Pin To Net: NetName=Earth Pin=R3-2
+Added Pin To Net: NetName=Earth Pin=R4-2
+Added Pin To Net: NetName=Earth Pin=R5-2
+Added Pin To Net: NetName=Earth Pin=R6-2
+Added Net: Name=Earth
+Added Pin To Net: NetName=J1G Pin=J1-GND_T
+Added Pin To Net: NetName=J1G Pin=J10-1
+Added Pin To Net: NetName=J1G Pin=J10-7
+Added Net: Name=J1G
+Added Pin To Net: NetName=J1S Pin=J1-TOP
+Added Pin To Net: NetName=J1S Pin=J9-1
+Added Pin To Net: NetName=J1S Pin=J9-7
+Added Net: Name=J1S
+Added Pin To Net: NetName=J2G Pin=J1-GND_B
+Added Pin To Net: NetName=J2G Pin=J10-2
+Added Pin To Net: NetName=J2G Pin=J10-8
+Added Net: Name=J2G
+Added Pin To Net: NetName=J2S Pin=J1-BOT
+Added Pin To Net: NetName=J2S Pin=J9-2
+Added Pin To Net: NetName=J2S Pin=J9-8
+Added Net: Name=J2S
+Added Pin To Net: NetName=J3G Pin=J2-GND_T
+Added Pin To Net: NetName=J3G Pin=J10-3
+Added Pin To Net: NetName=J3G Pin=J10-9
+Added Net: Name=J3G
+Added Pin To Net: NetName=J3S Pin=J2-TOP
+Added Pin To Net: NetName=J3S Pin=J9-3
+Added Pin To Net: NetName=J3S Pin=J9-9
+Added Net: Name=J3S
+Added Pin To Net: NetName=J4G Pin=J2-GND_B
+Added Pin To Net: NetName=J4G Pin=J10-4
+Added Pin To Net: NetName=J4G Pin=J10-10
+Added Net: Name=J4G
+Added Pin To Net: NetName=J4S Pin=J2-BOT
+Added Pin To Net: NetName=J4S Pin=J9-4
+Added Pin To Net: NetName=J4S Pin=J9-10
+Added Net: Name=J4S
+Added Pin To Net: NetName=J5G Pin=J3-GND_T
+Added Pin To Net: NetName=J5G Pin=J10-5
+Added Pin To Net: NetName=J5G Pin=J10-11
+Added Net: Name=J5G
+Added Pin To Net: NetName=J5S Pin=J3-TOP
+Added Pin To Net: NetName=J5S Pin=J9-5
+Added Pin To Net: NetName=J5S Pin=J9-11
+Added Net: Name=J5S
+Added Pin To Net: NetName=J6G Pin=J3-GND_B
+Added Pin To Net: NetName=J6G Pin=J10-6
+Added Pin To Net: NetName=J6G Pin=J10-12
+Added Net: Name=J6G
+Added Pin To Net: NetName=J6S Pin=J3-BOT
+Added Pin To Net: NetName=J6S Pin=J9-6
+Added Pin To Net: NetName=J6S Pin=J9-12
+Added Net: Name=J6S
+Added Pin To Net: NetName=P1 Pin=J4-1
+Added Pin To Net: NetName=P1 Pin=J5-1
+Added Pin To Net: NetName=P1 Pin=J5-7
+Added Pin To Net: NetName=P1 Pin=J6-1
+Added Pin To Net: NetName=P1 Pin=J6-7
+Added Pin To Net: NetName=P1 Pin=J7-1
+Added Pin To Net: NetName=P1 Pin=J11-1
+Added Net: Name=P1
+Added Pin To Net: NetName=P2 Pin=J4-4
+Added Pin To Net: NetName=P2 Pin=J5-2
+Added Pin To Net: NetName=P2 Pin=J5-8
+Added Pin To Net: NetName=P2 Pin=J6-2
+Added Pin To Net: NetName=P2 Pin=J6-8
+Added Pin To Net: NetName=P2 Pin=J7-2
+Added Pin To Net: NetName=P2 Pin=J11-2
+Added Net: Name=P2
+Added Pin To Net: NetName=P3 Pin=J4-5
+Added Pin To Net: NetName=P3 Pin=J5-3
+Added Pin To Net: NetName=P3 Pin=J5-9
+Added Pin To Net: NetName=P3 Pin=J6-3
+Added Pin To Net: NetName=P3 Pin=J6-9
+Added Pin To Net: NetName=P3 Pin=J7-3
+Added Pin To Net: NetName=P3 Pin=J11-3
+Added Net: Name=P3
+Added Pin To Net: NetName=P4 Pin=J5-4
+Added Pin To Net: NetName=P4 Pin=J5-10
+Added Pin To Net: NetName=P4 Pin=J6-4
+Added Pin To Net: NetName=P4 Pin=J6-10
+Added Pin To Net: NetName=P4 Pin=J7-4
+Added Pin To Net: NetName=P4 Pin=J8-1
+Added Pin To Net: NetName=P4 Pin=J11-4
+Added Net: Name=P4
+Added Pin To Net: NetName=P5 Pin=J5-5
+Added Pin To Net: NetName=P5 Pin=J5-11
+Added Pin To Net: NetName=P5 Pin=J6-5
+Added Pin To Net: NetName=P5 Pin=J6-11
+Added Pin To Net: NetName=P5 Pin=J7-5
+Added Pin To Net: NetName=P5 Pin=J8-4
+Added Pin To Net: NetName=P5 Pin=J11-5
+Added Net: Name=P5
+Added Pin To Net: NetName=P6 Pin=J5-6
+Added Pin To Net: NetName=P6 Pin=J5-12
+Added Pin To Net: NetName=P6 Pin=J6-6
+Added Pin To Net: NetName=P6 Pin=J6-12
+Added Pin To Net: NetName=P6 Pin=J7-6
+Added Pin To Net: NetName=P6 Pin=J8-5
+Added Pin To Net: NetName=P6 Pin=J11-6
+Added Net: Name=P6
+Added Class: Name=QSTL_M12C_BNC_v2
+Added Rule: Name=Schematic Supply Nets

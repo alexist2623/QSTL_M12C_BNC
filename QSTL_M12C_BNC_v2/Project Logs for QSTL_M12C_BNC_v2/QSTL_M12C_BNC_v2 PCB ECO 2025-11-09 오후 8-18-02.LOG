@@ -1,0 +1,7 @@
+Added Component: Designator=M?(M2_Hole)
+Added Component: Designator=M?(M2_Hole)
+Added Pin To Net: NetName=Earth Pin=M?-M2
+Added Pin To Net: NetName=Earth Pin=M?-M2
+Added Member To Class: ClassName=QSTL_M12C_BNC_v2 Member=Component M? M2 Hole
+Added Member To Class: ClassName=QSTL_M12C_BNC_v2 Member=Component M? M2 Hole
+Added Member To Class: ClassName=QSTL_M12C_BNC_v2 Member=Component R6 Panasonic 0805
