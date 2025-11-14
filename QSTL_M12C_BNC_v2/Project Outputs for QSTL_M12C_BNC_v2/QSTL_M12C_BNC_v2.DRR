@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: QSTL_M12C_BNC_v2.PcbDoc   2025-11-13  4:57:56 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : QSTL_M12C_BNC_v2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             2468      PTH        4678.50mm (184.19inch)
+T2      0.89mm (35mil)                                            Round             12        PTH        114.92mm (4.52inch)
+T3      1.1mm (43mil)                                             Round             10        PTH        73.78mm (2.90inch)
+T4      1.2mm (47mil)                                             Round             2         PTH        30.00mm (1.18inch)
+T5      1.8mm (71mil)                                             Round             4         PTH        45.00mm (1.77inch)
+T6      2.01mm (79mil)                                            Round             6         PTH        60.00mm (2.36inch)
+T7      2.5mm (98mil)                                             Round             2         PTH        122.00mm (4.80inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              2504
+
+Total Processing Time (hh:mm:ss) : 00:00:00

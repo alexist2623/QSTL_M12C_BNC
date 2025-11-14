@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations
+C:\Jeonghyun\SNU_GIT\QSTL_M12C_BNC\QSTL_M12C_BNC_v2\Project Outputs for QSTL_M12C_BNC_v2\Pick Place for QSTL_M12C_BNC_v2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13-11-25
+Time:       17:04
+Revision:   7579abc7702f4aceacca4aed5eb6f10f6896440a
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"M2","M2 Hole","TopLayer","M2_Hole","126.0000mm","66.0000mm","0",""
+"M1","M2 Hole","TopLayer","M2_Hole","4.0000mm","66.0000mm","0",""
+"R6","Panasonic 0805","TopLayer","RESC2013X60X40LL20T25","49.6000mm","54.8500mm","270",""
+"R5","Panasonic 0805","TopLayer","RESC2013X60X40LL20T25","46.6000mm","54.8500mm","270",""
+"R4","Panasonic 0805","TopLayer","RESC2013X60X40LL20T25","43.6000mm","54.8500mm","270",""
+"R3","Panasonic 0805","TopLayer","RESC2013X60X40LL20T25","40.6000mm","54.8500mm","270",""
+"R2","Panasonic 0805","TopLayer","RESC2013X60X40LL20T25","37.6000mm","54.8500mm","270",""
+"R1","Panasonic 0805","TopLayer","RESC2013X60X40LL20T25","34.6000mm","54.8500mm","270",""
+"J11","12 Pin Header","TopLayer","PZ254-2-06-S","42.2500mm","45.4000mm","180","https://jlcpcb.com/partdetail/HCTL-PZ254_2_06S/C3294464"
+"J10","12 Pin Header","TopLayer","PZ254-2-06-S","86.0000mm","52.0000mm","90","https://jlcpcb.com/partdetail/HCTL-PZ254_2_06S/C3294464"
+"J9","12 Pin Header","TopLayer","PZ254-2-06-S","86.0000mm","32.0000mm","90","https://jlcpcb.com/partdetail/HCTL-PZ254_2_06S/C3294464"
+"J8","M12 5P Connector","TopLayer","861-B05-213R004","44.6000mm","9.5000mm","0","https://www.digikey.ca/en/products/detail/norcomp-inc/861-B05-213R004/22611951?s=N4IgTCBcDaIBwDYCMBaAQgBgKwrEgzAEoYYAsIAugL5A"
+"J7","12 Pin Header","TopLayer","PZ254-2-06-S","42.2500mm","33.4000mm","180","https://jlcpcb.com/partdetail/HCTL-PZ254_2_06S/C3294464"
+"J6","12 Pin Header","TopLayer","PZ254-2-06-S","71.0000mm","32.0000mm","90","https://jlcpcb.com/partdetail/HCTL-PZ254_2_06S/C3294464"
+"J5","12 Pin Header","TopLayer","PZ254-2-06-S","71.0000mm","52.0000mm","90","https://jlcpcb.com/partdetail/HCTL-PZ254_2_06S/C3294464"
+"J4","M12 5P Connector","TopLayer","861-B05-213R004","14.6000mm","9.5000mm","0","https://www.digikey.ca/en/products/detail/norcomp-inc/861-B05-213R004/22611951?s=N4IgTCBcDaIBwDYCMBaAQgBgKwrEgzAEoYYAsIAugL5A"
+"J3","Isolated Stacked BNC","TopLayer","031-6575","119.5200mm","10.1550mm","0","https://www.digikey.ca/en/products/detail/amphenol-rf/031-6575/4037241"
+"J2","Isolated Stacked BNC","TopLayer","031-6575","94.6800mm","10.1550mm","0","https://www.digikey.ca/en/products/detail/amphenol-rf/031-6575/4037241"
+"J1","Isolated Stacked BNC","TopLayer","031-6575","69.6800mm","10.1550mm","0","https://www.digikey.ca/en/products/detail/amphenol-rf/031-6575/4037241"
+"C6","Murata 0805","TopLayer","FP-GRM21B-0_15-MFG","49.6000mm","58.6000mm","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X7R, 15%, 10%, 10V"
+"C5","Murata 0805","TopLayer","FP-GRM21B-0_15-MFG","46.6000mm","58.5500mm","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X7R, 15%, 10%, 10V"
+"C4","Murata 0805","TopLayer","FP-GRM21B-0_15-MFG","43.6000mm","58.6000mm","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X7R, 15%, 10%, 10V"
+"C3","Murata 0805","TopLayer","FP-GRM21B-0_15-MFG","40.6000mm","58.6000mm","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X7R, 15%, 10%, 10V"
+"C2","Murata 0805","TopLayer","FP-GRM21B-0_15-MFG","37.6000mm","58.6000mm","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X7R, 15%, 10%, 10V"
+"C1","Murata 0805","TopLayer","FP-GRM21B-0_15-MFG","34.6000mm","58.6000mm","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0805, 10uF, X7R, 15%, 10%, 10V"
